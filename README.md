@@ -37,8 +37,8 @@ Please ensure the following tools are installed on your system:
    Fork the repository to your GitHub account and clone it locally.
 
    ```bash
-   git clone https://github.com/your-username/your-repository.git
-   cd your-repository
+   git clone https://github.com/uylyseng/laravel-cafe.git
+   cd laravel-cafe
    ```
 
 2. **Install PHP Dependencies**
